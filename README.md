@@ -1,9 +1,14 @@
-### Hey there!
+## Hey there!
 My name is Alex Frolov, I am a student of Computational Mathematics and Cybernetics of Moscow State University, the department of Computing Systems and Automation. Scientific advisor is Bahmurov A.G. Currently working as an intern in @Huawei.
 
 <a href="https://github.com/sanyavertolet">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=sanyavertolet&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Braydon's GitHub Stats" />
 </a>
+
+## Currently working on:
+ - [save-cli](https://github.com/analysis-dev/save-cli) and [save-cloud](https://github.com/analysis-dev/save-cloud) - platform for testing static analysis tools
+ - [teamvolikbot](https://github.com/teamvolik/teamvolik) - bot for signing up for volleyball games
+ - [IoMT Client](https://github.com/lalekz/iomt-android) - andoird app for recieving data from IoMT devices and sending them to server for later analysis.
 
 
 <!--
