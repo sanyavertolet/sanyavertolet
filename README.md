@@ -8,7 +8,6 @@ My name is Alex Frolov, I am a student of Computational Mathematics and Cybernet
 ## Currently working on:
  - [save-cli](https://github.com/analysis-dev/save-cli) and [save-cloud](https://github.com/analysis-dev/save-cloud) - platform for testing static analysis tools
  - [diktat](https://github.com/analysis-dev/diktat) - static analyzer for kotlin
- - [teamvolikbot](https://github.com/teamvolik/teamvolik) - bot for signing up for volleyball games
  - [IoMT Client](https://github.com/lalekz/iomt-android) - andoird app for recieving data from IoMT devices and sending them to server for later analysis.
 
 
