@@ -8,8 +8,7 @@ My name is Alex Frolov, I am a student of Computational Mathematics and Cybernet
 ## Currently working on:
  - [save-cli](https://github.com/analysis-dev/save-cli) and [save-cloud](https://github.com/analysis-dev/save-cloud) - platform for testing static analysis tools
  - [diktat](https://github.com/analysis-dev/diktat) - static analyzer for kotlin
- - [IoMT Client](https://github.com/lalekz/iomt-android) - andoird app for recieving data from IoMT devices and sending them to server for later analysis.
-
+ - [IoMT Client](https://github.com/IoMT-LVK/iomt-android) - andoird app for recieving data from IoMT devices and sending them to server for later analysis.
 
 <!--
 **sanyavertolet/sanyavertolet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
