@@ -1,6 +1,8 @@
 ## Hey there!
 My name is Alex Frolov, I am a graduate of Computational Mathematics and Cybernetics of Moscow State University, the department of Computing Systems and Automation. Scientific advisor is Bahmurov A.G. Currently working as Kotlin Fullstack developer in @Huawei.
 
+![https://badges.peiyuan.ch/leetcode/sanyavertolet/solved?difficulty=all](https://badges.peiyuan.ch/leetcode/sanyavertolet/solved?difficulty=all)
+
 <a href="https://github.com/sanyavertolet">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sanyavertolet&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Braydon's GitHub Stats" />
 </a>
