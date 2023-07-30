@@ -11,7 +11,7 @@ My name is Alex Frolov, I am a graduate of Computational Mathematics and Cyberne
  - [save-cli](https://github.com/saveourtool/save-cli) and [save-cloud](https://github.com/saveourtool/save-cloud) - platform for testing static analysis tools
  - [diktat](https://github.com/saveourtool/diktat) - static analyzer for kotlin
 
-## My diploma work:
+## My bachelor thesis:
  - [IoMT Client](https://github.com/IoMT-LVK/iomt-android) - andoird app for recieving data from IoMT devices and sending it to server for later analysis.
 
 <!--
