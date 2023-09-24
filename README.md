@@ -8,6 +8,9 @@ My name is Alex Frolov, I am a graduate of Computational Mathematics and Cyberne
 </a>
 
 ## Currently working on:
+ - [kotlin-js-preview-idea-plugin](https://github.com/sanyavertolet/kotlin-js-preview-idea-plugin) - IDEA plugin for Kotlin/JS React FC preview
+
+## Previous projects:
  - [save-cli](https://github.com/saveourtool/save-cli) and [save-cloud](https://github.com/saveourtool/save-cloud) - platform for testing static analysis tools
  - [diktat](https://github.com/saveourtool/diktat) - static analyzer for kotlin
 
