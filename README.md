@@ -1,5 +1,5 @@
 ## Hey there!
-My name is Alex Frolov, I am a graduate of Computational Mathematics and Cybernetics of Moscow State University, the department of Computing Systems and Automation. Scientific advisor is Bahmurov A.G. Currently working as Kotlin Fullstack developer in @Huawei.
+My name is Alex Frolov, I am a graduate of Computational Mathematics and Cybernetics of Moscow State University, the department of Computing Systems and Automation. Scientific advisor is Bahmurov A.G. Worked as Kotlin Fullstack developer in @Huawei. Currently seeking for a job.
 
 ![https://badges.peiyuan.ch/leetcode/sanyavertolet/solved?difficulty=all](https://badges.peiyuan.ch/leetcode/sanyavertolet/solved?difficulty=all)
 
