@@ -9,6 +9,7 @@ My name is Alex Frolov, I am a graduate of Computational Mathematics and Cyberne
 
 ## Currently working on:
  - [kotlin-js-preview-idea-plugin](https://github.com/sanyavertolet/kotlin-js-preview-idea-plugin) - IDEA plugin for Kotlin/JS React FC preview
+ - [kotlin-js-wrappers](https://github.com/sanyavertolet/kotlin-js-wrappers) - Kotlin/JS wrappers for some useful javascript libs e.g. `i18next` or `cookie`
 
 ## Previous projects:
  - [save-cli](https://github.com/saveourtool/save-cli) and [save-cloud](https://github.com/saveourtool/save-cloud) - platform for testing static analysis tools
